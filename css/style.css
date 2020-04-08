@@ -24,3 +24,12 @@
   postion:relative;
   left:50%;
 }
+
+#navbar-container ul
+{
+  float:left;
+  position:relative;
+  display:block;
+  padding:10px 20px;
+  color:#fff;
+}
