@@ -15,3 +15,12 @@
   background-color: red;
   right: 0%;
 }
+
+#navbar-container
+{
+  list-style-type:none;
+  margin:0;
+  padding:0;
+  postion:relative;
+  left:50%;
+}
