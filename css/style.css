@@ -2,9 +2,6 @@
 {
   overflow: hidden;
   background-color: blue;
-  position: relative;
-  width: 100%;
-  float: left;
 }
 
 #sidebar
@@ -20,8 +17,10 @@
 {
   list-style-type:none;
   margin:0;
-  position:relative;
   left:50%;
+  position: relative;
+  width: 100%;
+  float: left;
 }
 
 #navbar-container ul
