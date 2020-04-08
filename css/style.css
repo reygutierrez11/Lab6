@@ -20,7 +20,6 @@
 {
   list-style-type:none;
   margin:0;
-  
   position:relative;
   left:50%;
 }
@@ -50,6 +49,7 @@
   list-style-type:none;
   text-align:center;
   text-decoration:none;
+  position:fixed;
 }
 
 #sidebar-container ul
