@@ -50,3 +50,15 @@
   text-align:center;
   text-decoration:none;
 }
+
+#sidebar-container ul
+{
+  padding:0;
+  display:block;
+  color:#fff;
+}
+
+#sidebar-container ul li
+{
+  padding:15px;
+}
